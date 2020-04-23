@@ -9,7 +9,7 @@
     "test": "run-p -r selenium protractor",
     "postinstall": "webdriver-manager update"
   },
-  "author": "",
+  "author": "Arthit Kanjai",
   "license": "ISC",
   "devDependencies": {
     "jasmine": "^3.5.0",
